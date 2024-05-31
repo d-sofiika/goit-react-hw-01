@@ -1,0 +1,56 @@
+.box {
+  border: 3px solid black;
+  border-radius: 10px;
+
+  width: 300px;
+  height: 100%;
+  color: black;
+  background-color: #eceaea;
+}
+.boxInfo {
+
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.name {
+  font-size: 30px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+.text {
+  color: rgb(158, 157, 157);
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.pictures {
+  width: 50%;
+  background-color: black;
+  border-radius: 50%;
+}
+.list {
+  display: flex;
+
+  font-size: 20px;
+  background-color: rgb(194, 194, 194);
+justify-content: center;
+font-weight: 500;
+  
+  border-top: 3px solid rgb(91, 91, 91);
+  border-bottom-left-radius:10px ;
+border-bottom-right-radius: 10px;
+}
+.item {
+  display: flex;
+width: 100%;
+padding: 10px;
+
+flex-direction: column;
+}
+.itemLine{
+    border-right: 3px solid rgb(91, 91, 91);
+    border-left: 3px solid rgb(91, 91, 91);
+}
+.data {
+    font-weight: 700;
+}
