@@ -1,0 +1,26 @@
+.friendList {
+    display: flex;
+    margin-top: 40px;
+    gap: 15px;
+}
+
+.personItem {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+
+
+.name {
+   font-weight: 700;
+}
+
+.online {
+    color: green;
+
+}
+
+.offlineClass {
+    color: red;
+}
