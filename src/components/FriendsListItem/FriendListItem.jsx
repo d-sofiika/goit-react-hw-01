@@ -1,4 +1,4 @@
-import css from "../Friends/friends.module.css";
+import css from "./friends.module.css";
 import clsx from 'clsx'
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
