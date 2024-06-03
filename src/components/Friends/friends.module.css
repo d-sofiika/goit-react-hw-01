@@ -10,15 +10,12 @@
     padding: 12px;
 }
 
-
-
 .name {
    font-weight: 700;
 }
 
 .online {
     color: green;
-
 }
 
 .offlineClass {
